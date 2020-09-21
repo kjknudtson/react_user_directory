@@ -1,0 +1,12 @@
+thead {
+    background-color: grey;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+}
+
+tr {
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+}
